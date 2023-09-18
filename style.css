@@ -3,6 +3,11 @@
 <style>
 
 body {
+    background-color: green;
+}
+
+
+body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
@@ -23,5 +28,8 @@ header ul li {
     display: inline;
     margin-right: 20px;
 }
+
+
+
 
 </style>
